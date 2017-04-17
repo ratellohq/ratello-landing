@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/system/blueprints/config/site.yaml',
-    'modified' => 1490964270,
+    'modified' => 1492455011,
     'data' => [
         'title' => 'PLUGIN_ADMIN.SITE',
         'form' => [

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/system/config/system.yaml',
-    'modified' => 1490964270,
+    'modified' => 1492455011,
     'data' => [
         'absolute_urls' => false,
         'timezone' => '',

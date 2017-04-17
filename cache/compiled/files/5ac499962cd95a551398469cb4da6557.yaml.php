@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/system/languages/ro.yaml',
-    'modified' => 1490964270,
+    'modified' => 1492455011,
     'data' => [
         'FRONTMATTER_ERROR_PAGE' => '---
 Titlu: %1$s

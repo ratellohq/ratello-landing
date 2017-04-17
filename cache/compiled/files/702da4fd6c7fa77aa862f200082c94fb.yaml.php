@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/system/languages/nb.yaml',
-    'modified' => 1490964270,
+    'modified' => 1492455011,
     'data' => [
         'MONTHS_OF_THE_YEAR' => [
             0 => 'januar',
