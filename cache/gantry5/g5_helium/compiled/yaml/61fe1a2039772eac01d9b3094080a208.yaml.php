@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/user/data/gantry5/themes/g5_helium/config/default/index.yaml',
-    'modified' => 1491210004,
+    'modified' => 1492459336,
     'data' => [
         'name' => 'default',
-        'timestamp' => 1477304780,
+        'timestamp' => 1491210004,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',

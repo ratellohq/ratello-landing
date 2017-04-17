@@ -2,10 +2,10 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/user/data/gantry5/themes/g5_helium/config/home_-_particles/index.yaml',
-    'modified' => 1491210004,
+    'modified' => 1492459336,
     'data' => [
         'name' => 'home_-_particles',
-        'timestamp' => 1477304780,
+        'timestamp' => 1491210004,
         'version' => 7,
         'preset' => [
             'image' => 'gantry-admin://images/layouts/default.png',
@@ -30,16 +30,6 @@ return [
             'offcanvas' => 'Offcanvas'
         ],
         'particles' => [
-            'logo' => [
-                'logo-9608' => 'Logo / Image',
-                'logo-9571' => 'Logo / Image'
-            ],
-            'menu' => [
-                'menu-6409' => 'Menu'
-            ],
-            'social' => [
-                'social-3171' => 'Social'
-            ],
             'owlcarousel' => [
                 'owlcarousel-2455' => 'Owl Carousel'
             ],
@@ -55,21 +45,43 @@ return [
             'contentcubes' => [
                 'contentcubes-7850' => 'Content Cubes'
             ],
+            'logo' => [
+                'logo-4180' => 'Logo / Image',
+                'logo-8972' => 'Logo / Image'
+            ],
+            'menu' => [
+                'menu-8523' => 'Menu'
+            ],
+            'social' => [
+                'social-4951' => 'Social'
+            ],
             'copyright' => [
-                'copyright-1736' => 'Copyright'
+                'copyright-2708' => 'Copyright'
             ],
             'horizontalmenu' => [
-                'horizontalmenu-9034' => 'Horizontal Menu'
+                'horizontalmenu-1595' => 'Horizontal Menu'
             ],
             'totop' => [
-                'totop-8670' => 'To Top'
+                'totop-7905' => 'To Top'
             ],
             'mobile-menu' => [
-                'mobile-menu-5697' => 'Mobile-menu'
+                'mobile-menu-1723' => 'Mobile-menu'
             ]
         ],
         'inherit' => [
-            
+            'default' => [
+                'navigation' => 'navigation',
+                'footer' => 'footer',
+                'offcanvas' => 'offcanvas',
+                'logo-4180' => 'logo-9608',
+                'menu-8523' => 'menu-6409',
+                'social-4951' => 'social-3171',
+                'logo-8972' => 'logo-9571',
+                'copyright-2708' => 'copyright-1736',
+                'horizontalmenu-1595' => 'horizontalmenu-9034',
+                'totop-7905' => 'totop-8670',
+                'mobile-menu-1723' => 'mobile-menu-5697'
+            ]
         ]
     ]
 ];

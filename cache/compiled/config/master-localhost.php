@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1492456052,
-    'checksum' => '8881ef5b73bc1f46ae3a6de3867cf43d',
+    'timestamp' => 1492459406,
+    'checksum' => 'c65846fd775af1f9f165dc06c483cefa',
     'files' => [
         'user/config' => [
             'media' => [
@@ -19,7 +19,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1490964270
+                'modified' => 1492459406
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -535,10 +535,10 @@ return [
             ]
         ],
         'site' => [
-            'title' => 'Grav',
+            'title' => 'Ratello | Landing page itteration',
             'default_lang' => 'en',
             'author' => [
-                'name' => 'Joe Bloggs',
+                'name' => 'Emil Karlsson',
                 'email' => 'joe@test.com'
             ],
             'taxonomies' => [

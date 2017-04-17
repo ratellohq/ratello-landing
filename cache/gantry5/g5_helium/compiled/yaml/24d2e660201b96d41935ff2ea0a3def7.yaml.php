@@ -2,7 +2,7 @@
 return [
     '@class' => 'Gantry\\Component\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/user/data/gantry5/themes/g5_helium/config/default/particles/logo.yaml',
-    'modified' => 1491210004,
+    'modified' => 1492459033,
     'data' => [
         'enabled' => '1',
         'url' => '',
