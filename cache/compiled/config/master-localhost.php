@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1492455141,
-    'checksum' => '04a592ccbfb2a5475af10755f099343d',
+    'timestamp' => 1492456052,
+    'checksum' => '8881ef5b73bc1f46ae3a6de3867cf43d',
     'files' => [
         'user/config' => [
             'media' => [
@@ -51,7 +51,7 @@ return [
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
@@ -87,7 +87,7 @@ return [
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1491210036
+                'modified' => 1492456052
             ]
         ]
     ],
@@ -269,7 +269,7 @@ return [
                     'category' => 'blog'
                 ],
                 'filter_combinator' => 'and',
-                'ignore_accented_characters' => true,
+                'ignore_accented_characters' => false,
                 'order' => [
                     'by' => 'date',
                     'dir' => 'desc'

@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1492455141,
-    'checksum' => '2706b3b64f2782d37bba1e630204d970',
+    'timestamp' => 1492456052,
+    'checksum' => '3a135a041d969c2f01af49d0d7c14392',
     'files' => [
         'system/blueprints/config' => [
             'media' => [
@@ -25,7 +25,7 @@ return [
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/blueprints.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
@@ -61,7 +61,7 @@ return [
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/blueprints.yaml',
-                'modified' => 1491210036
+                'modified' => 1492456052
             ]
         ]
     ],
@@ -3108,7 +3108,7 @@ return [
             ],
             'plugins.simplesearch.ignore_accented_characters' => [
                 'type' => 'toggle',
-                'label' => 'Ignote accented characters',
+                'label' => 'Ignore accented characters',
                 'highlight' => 0,
                 'default' => 0,
                 'options' => [

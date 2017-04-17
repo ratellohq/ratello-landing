@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/user/plugins/admin/blueprints.yaml',
-    'modified' => 1491210022,
+    'modified' => 1492456033,
     'data' => [
         'name' => 'Admin Panel',
-        'version' => '1.3.1',
+        'version' => '1.3.3',
         'description' => 'Adds an advanced administration panel to manage your site',
         'icon' => 'empire',
         'author' => [

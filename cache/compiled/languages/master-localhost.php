@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1492455141,
-    'checksum' => '533f8ad07fbcc3e570f25fbe8946398e',
+    'timestamp' => 1492456052,
+    'checksum' => '7557e028640a773b59e50889de15a510',
     'files' => [
         'system/languages' => [
             'ar' => [
@@ -137,145 +137,145 @@ return [
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/languages.yaml',
-                'modified' => 1491210036
+                'modified' => 1492456052
             ]
         ],
         'user/plugins/admin/languages' => [
             'ar' => [
                 'file' => 'user/plugins/admin/languages/ar.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'bg' => [
                 'file' => 'user/plugins/admin/languages/bg.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'br' => [
                 'file' => 'user/plugins/admin/languages/br.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'ca' => [
                 'file' => 'user/plugins/admin/languages/ca.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'cs' => [
                 'file' => 'user/plugins/admin/languages/cs.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'cy' => [
                 'file' => 'user/plugins/admin/languages/cy.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'da' => [
                 'file' => 'user/plugins/admin/languages/da.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'de' => [
                 'file' => 'user/plugins/admin/languages/de.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'el' => [
                 'file' => 'user/plugins/admin/languages/el.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'en' => [
                 'file' => 'user/plugins/admin/languages/en.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'es' => [
                 'file' => 'user/plugins/admin/languages/es.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'fa' => [
                 'file' => 'user/plugins/admin/languages/fa.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'fi' => [
                 'file' => 'user/plugins/admin/languages/fi.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'fr' => [
                 'file' => 'user/plugins/admin/languages/fr.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'hr' => [
                 'file' => 'user/plugins/admin/languages/hr.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'hu' => [
                 'file' => 'user/plugins/admin/languages/hu.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'it' => [
                 'file' => 'user/plugins/admin/languages/it.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'ja' => [
                 'file' => 'user/plugins/admin/languages/ja.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'ko' => [
                 'file' => 'user/plugins/admin/languages/ko.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'lt' => [
                 'file' => 'user/plugins/admin/languages/lt.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'nl' => [
                 'file' => 'user/plugins/admin/languages/nl.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'no' => [
                 'file' => 'user/plugins/admin/languages/no.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'pl' => [
                 'file' => 'user/plugins/admin/languages/pl.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'pt' => [
                 'file' => 'user/plugins/admin/languages/pt.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'ro' => [
                 'file' => 'user/plugins/admin/languages/ro.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'ru' => [
                 'file' => 'user/plugins/admin/languages/ru.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'sk' => [
                 'file' => 'user/plugins/admin/languages/sk.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'sv' => [
                 'file' => 'user/plugins/admin/languages/sv.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'th' => [
                 'file' => 'user/plugins/admin/languages/th.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'tlh' => [
                 'file' => 'user/plugins/admin/languages/tlh.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'tr' => [
                 'file' => 'user/plugins/admin/languages/tr.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'uk' => [
                 'file' => 'user/plugins/admin/languages/uk.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'vi' => [
                 'file' => 'user/plugins/admin/languages/vi.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ],
             'zh' => [
                 'file' => 'user/plugins/admin/languages/zh.yaml',
-                'modified' => 1491210022
+                'modified' => 1492456033
             ]
         ]
     ],
@@ -2596,6 +2596,12 @@ Ruta: `%2$s`
                 'NEVER_CACHE_TWIG' => 'Nikdy nacachovat Twig',
                 'ALLOW_WEBSERVER_GZIP' => 'Povolit WebServer Gzip',
                 'OFFLINE_WARNING' => 'Nelze navázat spojení s GPM'
+            ],
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => 'Vyhledat...',
+                'SEARCH_RESULTS' => 'Výsledky hledání',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Hledání výrazu \'<strong>%s</strong>\' našlo jeden výsledek',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Hledání výrazu \'<strong>%s</strong>\' našlo %s výsledků'
             ],
             'INFLECTOR_UNCOUNTABLE' => [
                 0 => 'vybavení',
@@ -5386,7 +5392,8 @@ Pfad: `%2$s`
                 'SEARCH_PLACEHOLDER' => 'Search...',
                 'SEARCH_RESULTS' => 'Search Results',
                 'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Query: <strong>%s</strong> found one result',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Query: <strong>%s</strong> found %s results'
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Query: <strong>%s</strong> found %s results',
+                'SEARCH_FIELD_MINIUMUM_CHARACTERS' => 'Please add at least %s characters'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -9962,7 +9969,8 @@ Elérési út: `%2$s`
                 'SEARCH_PLACEHOLDER' => 'Cerca...',
                 'SEARCH_RESULTS' => 'Risultati della ricerca',
                 'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Ricerca: <strong>%s</strong>. Trovato un risultato',
-                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Ricerca: <strong>%s</strong>. Trovati %s risultati'
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Ricerca: <strong>%s</strong>. Trovati %s risultati',
+                'SEARCH_FIELD_MINIUMUM_CHARACTERS' => 'Inserisci almeno %s caratteri'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---Titolo: %1$s---# Errore: Frontmatter non valido: \'%2$s\' * *%3$s * * \' \'%4$s \' \'',
             'NICETIME' => [
@@ -13095,6 +13103,12 @@ Path: `%2$s`
                 'TO' => 'para',
                 'RESOURCE_FILTER' => 'Filtro...'
             ],
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => 'O que você procura?',
+                'SEARCH_RESULTS' => 'Resultados da pesquisa',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Pesquisa: <strong>%s</strong>. Foram encontrados 1 resultados',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Pesquisa: <strong>%s</strong>. Foram encontrados %s resultados'
+            ],
             'FRONTMATTER_ERROR_PAGE' => '---
 título: %1$s
 ---
@@ -15436,6 +15450,12 @@ Path: `%2$s`
                 'NOTIFICATIONS' => 'Notifikationer',
                 'LEGEND' => 'Sidförklaring'
             ],
+            'PLUGIN_SIMPLESEARCH' => [
+                'SEARCH_PLACEHOLDER' => 'Sök...',
+                'SEARCH_RESULTS' => 'Sökresultat',
+                'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Sökning: <strong>%s</strong> hittade ett resultat',
+                'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Sökning: <strong>%s</strong> hittade %s resultat'
+            ],
             'FRONTMATTER_ERROR_PAGE' => '--- titel: %1$s --- # Fel: Ogiltig Frontmatter-sökväg: `%2$s` **%3$s** ``` %4$s ```',
             'NICETIME' => [
                 'NO_DATE_PROVIDED' => 'Inget datum har angivits',
@@ -17717,6 +17737,6 @@ Path: `%2$s`
                 6 => 'søndag'
             ]
         ],
-        'checksum' => '533f8ad07fbcc3e570f25fbe8946398e'
+        'checksum' => '7557e028640a773b59e50889de15a510'
     ]
 ];

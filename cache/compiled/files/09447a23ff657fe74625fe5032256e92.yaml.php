@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/emil/Documents/code/ratello-landing/user/plugins/simplesearch/blueprints.yaml',
-    'modified' => 1491210036,
+    'modified' => 1492456052,
     'data' => [
         'name' => 'SimpleSearch',
-        'version' => '1.10.0',
+        'version' => '1.10.1',
         'description' => 'Don\'t be fooled, the **SimpleSearch** plugin provides a **fast** and highly **configurable** way to search your content.',
         'icon' => 'search',
         'author' => [
@@ -62,7 +62,7 @@ return [
                 ],
                 'ignore_accented_characters' => [
                     'type' => 'toggle',
-                    'label' => 'Ignote accented characters',
+                    'label' => 'Ignore accented characters',
                     'help' => 'If enabled, search terms will match accented characters regardless to their diacritics i.e. search results will show up for "cafe" and "café" no matter how you typed it.',
                     'highlight' => 0,
                     'default' => 0,
